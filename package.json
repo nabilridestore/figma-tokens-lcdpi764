@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/fearful-crate-zb5w8.figma-tokens-lcdpi764",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve NHdmj937QmoZJZ4AzTJn --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
